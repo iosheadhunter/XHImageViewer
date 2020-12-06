@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		C028A4BA2572F64700E8A664 /* XHImageViewer.h in Headers */ = {isa = PBXBuildFile; fileRef = C028A4B82572F64700E8A664 /* XHImageViewer.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0651B6E2572F6D600D2C90B /* UIImage+Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B5F2572F6D600D2C90B /* UIImage+Utility.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C0651B6E2572F6D600D2C90B /* UIImage+Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B5F2572F6D600D2C90B /* UIImage+Utility.h */; };
 		C0651B6F2572F6D600D2C90B /* XHCacheManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B602572F6D600D2C90B /* XHCacheManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C0651B702572F6D600D2C90B /* XHImageViewer.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B612572F6D600D2C90B /* XHImageViewer.m */; };
 		C0651B712572F6D600D2C90B /* XHZoomingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B622572F6D600D2C90B /* XHZoomingImageView.m */; };
 		C0651B722572F6D600D2C90B /* NSString+XHMD5.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B632572F6D600D2C90B /* NSString+XHMD5.m */; };
 		C0651B732572F6D600D2C90B /* XHCacheManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B642572F6D600D2C90B /* XHCacheManager.m */; };
 		C0651B742572F6D600D2C90B /* XHZoomingImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B652572F6D600D2C90B /* XHZoomingImageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0651B752572F6D600D2C90B /* XHFileAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B662572F6D600D2C90B /* XHFileAttribute.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0651B762572F6D600D2C90B /* XHViewState.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B672572F6D600D2C90B /* XHViewState.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C0651B752572F6D600D2C90B /* XHFileAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B662572F6D600D2C90B /* XHFileAttribute.h */; };
+		C0651B762572F6D600D2C90B /* XHViewState.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B672572F6D600D2C90B /* XHViewState.h */; };
 		C0651B772572F6D600D2C90B /* XHFileAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B682572F6D600D2C90B /* XHFileAttribute.m */; };
 		C0651B782572F6D600D2C90B /* UIImageView+XHURLDownload.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B692572F6D600D2C90B /* UIImageView+XHURLDownload.m */; };
 		C0651B792572F6D600D2C90B /* UIImage+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B6A2572F6D600D2C90B /* UIImage+Utility.m */; };
 		C0651B7A2572F6D600D2C90B /* UIImageView+XHURLDownload.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B6B2572F6D600D2C90B /* UIImageView+XHURLDownload.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0651B7B2572F6D600D2C90B /* NSString+XHMD5.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B6C2572F6D600D2C90B /* NSString+XHMD5.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C0651B7B2572F6D600D2C90B /* NSString+XHMD5.h in Headers */ = {isa = PBXBuildFile; fileRef = C0651B6C2572F6D600D2C90B /* NSString+XHMD5.h */; };
 		C0651B7C2572F6D600D2C90B /* XHViewState.m in Sources */ = {isa = PBXBuildFile; fileRef = C0651B6D2572F6D600D2C90B /* XHViewState.m */; };
 /* End PBXBuildFile section */
 

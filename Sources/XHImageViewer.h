@@ -8,6 +8,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <XHImageViewer/XHCacheManager.h>
+#import <XHImageViewer/XHZoomingImageView.h>
+#import <XHImageViewer/UIImageView+XHURLDownload.h>
 
 @class XHImageViewer;
 
